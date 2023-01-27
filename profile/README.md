@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://aikenahac.com/" target="_blank"><img src="https://cdn.aikenahac.com/socialko-assets/logo.svg" style="border-radius: 25px" width="200" alt="Nest Logo" /></a>
+  <a href="http://aikenahac.com/" target="_blank"><img src="https://cdn.socialko.cc/assets/logo.png" style="border-radius: 25px" width="200" alt="Nest Logo" /></a>
 </p>
 
 <h1 align="center">Socialko</h1>
